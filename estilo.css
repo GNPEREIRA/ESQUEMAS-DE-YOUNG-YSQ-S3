@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+    width: 1800px;
+}
+
+div{
+    margin-bottom: 50px;
+}
