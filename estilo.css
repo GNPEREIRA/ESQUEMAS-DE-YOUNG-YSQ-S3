@@ -15,9 +15,16 @@ section{
     border-radius: 10px;
     margin: auto;
     padding: 10px;
-    width: 1800px;
+    width: 1000px;
 }
 
 div{
     margin-bottom: 50px;
+    font-size: 20px;
 }
+
+table, th, tbody, tr, td{
+    border: solid 1px;
+    width:900px
+}
+

@@ -376,4 +376,8 @@ function calcular(){
     
 
     resultado.innerHTML = `${total - 1} de 90 respondidas`
+
+    //resultado.innerHTML.window.location.href = "http://pt.stackoverflow.com";
+
+    
 }
